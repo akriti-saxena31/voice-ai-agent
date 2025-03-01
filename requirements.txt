@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+openai
+httpx
+websockets
+python-dotenv
+plivo
+asyncpg
+redis[hiredis]
